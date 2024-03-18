@@ -1,0 +1,5 @@
+Source,ContractId,Price,Volume,Direction,Fee
+Execution_source1.txt,21002456,9.18,800.0,Sell,8.22
+Execution_source1.txt,21300993,30.89,100.0,Buy,0.37
+Execution_source1.txt,11600116,9.77,300.0,Buy,0.41
+Execution_source1.txt,11603076,36.87,100.0,Buy,0.51
